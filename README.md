@@ -1,4 +1,4 @@
-# 안녕하세요! 설미선입니다 👋
+# 안녕하세요! 설미선입니다 
 
 **Frontend Developer** | **LLM Integration Specialist**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 핵심 역량
+##  핵심 역량
 
 - 🎨 **Frontend 개발**: Next.js/TypeScript로 실사용자 6가구에 배포, 해커톤 본선 진출
 - 🤖 **LLM 통합**: RAG 시스템 구축으로 응답 속도 7배↑, API 비용 40%↓
@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 기술 스택
+##  기술 스택
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
